@@ -48,7 +48,7 @@
 
 
 ### 📊 GitHub Stats
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishna-Sathyan&show_icons=true&theme=dark)
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKRISHNASATHYAN11&show_icons=true&theme=dark)
 
 
 
