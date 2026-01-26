@@ -48,7 +48,10 @@
 
 
 ### 📊 GitHub Stats
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKRISHNASATHYAN11&show_icons=true&theme=dark)
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRISHNASATHYAN11&show_icons=true&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=KRISHNASATHYAN11&color=blueviolet)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 
 
