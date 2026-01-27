@@ -11,6 +11,9 @@
 - 💼 Looking for **Frontend Developer roles**
 - 📫 Email: krishnasathyan11@gmail.com
 
+   ![snake animation](https://github.com/KRISHNASATHYAN11/KRISHNASATHYAN11/blob/output/github-contribution-grid-snake.svg)
+
+
   
 
 
