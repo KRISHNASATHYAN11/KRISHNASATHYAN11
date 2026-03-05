@@ -5,10 +5,10 @@
 
 
 <h1 align = "center">HI , I'm Krishna Sathyan </h1>
-<h3 align = "center">MERN Stack Developer</h3>
+<h3 align = "center">MERN Stack Developer| Trainee - Software Engineer</h3>
 
 - 🌱 Currently learning **MERN Stack**
-- 💼 Looking for **Frontend Developer roles**
+- 💼 Working in Cloud Forest Innovations
 - 📫 Email: krishnasathyan11@gmail.com
 
    ![snake animation](https://github.com/KRISHNASATHYAN11/KRISHNASATHYAN11/blob/output/github-contribution-grid-snake.svg)
