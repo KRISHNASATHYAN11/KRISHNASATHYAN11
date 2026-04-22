@@ -5,11 +5,15 @@
 
 
 <h1 align = "center">HI , I'm Krishna Sathyan </h1>
-<h3 align = "center">MERN Stack Developer| Trainee - Software Engineer</h3>
+<h3 align = "center">Trainee - Software Engineer</h3>
 
 - 🌱 Currently learning **MERN Stack**
 - 💼 Working in Cloud Forest Innovations
 - 📫 Email: krishnasathyan11@gmail.com
+- 🌱 Currently learning and building projects using JavaScript & Full Stack Development
+-📱 Exploring React Native and Flutter for mobile app development
+-🧠 Interested in creating real-world applications with clean UI/UX
+-🎯 Goal: Become a professional full-stack & mobile app developer
 
    ![snake animation](https://github.com/KRISHNASATHYAN11/KRISHNASATHYAN11/blob/output/github-contribution-grid-snake.svg)
 
@@ -44,6 +48,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+
+**📱 Mobile Development**
+React Native
+Flutter
 
 #### ☁️ Deployment & BaaS
 
